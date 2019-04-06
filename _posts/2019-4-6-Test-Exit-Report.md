@@ -23,5 +23,3 @@ why it's bad in my opinion?
 
 
 what should we do about it?
-
-#looking for avatar
