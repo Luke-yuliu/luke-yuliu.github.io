@@ -1,6 +1,8 @@
 ---
+title: 'How I slow exit out prescriptive Test Cases and Test Exit Report'
 layout: post
-title: 'Shall we Transform or Exit out of "Test Exit Report" ?'
+tags: []
+category: 
 ---
 The story started after I've made my three wishes too ealier before I find the Aladdin's magic lamp.
 
