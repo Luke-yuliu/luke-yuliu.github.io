@@ -8,13 +8,6 @@ part 1: Test exit report, test summary report
 
 what it looks like?
 
-<<<<<<< HEAD
-#commit via git-plus play with diff
-amend previous commit
-=======
-#commit via git-plus
-
->>>>>>> 3bb6699894d05d4acdb9193da60ef8897c2eb308
 
 what's my experience about it?
 
