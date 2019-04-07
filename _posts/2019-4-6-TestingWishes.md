@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Three wishes with Aladdin's magic lamp
-tags: SoftwareTesting Testers Lean ContinuousImprovement ContinuouseLearning
 ---
+<!-- tags: SoftwareTesting Testers Lean ContinuousImprovement ContinuouseLearning -->
+<!-- http://longqian.me/2017/02/09/github-jekyll-tag/ is helpful site to continue to build tags, automatic creation of tag page-->
+
 The story started after I've made my three wishes too early before I find the Aladdin's magic lamp.
 
 My three wishes into the future from 2019:
