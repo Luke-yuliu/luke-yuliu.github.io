@@ -1,8 +1,6 @@
 ---
-title: 'Three wishes with Aladdin's magic lamp'
 layout: post
-tags: []
-category:
+title: Three wishes with Aladdin's magic lamp
 ---
 The story started after I've made my three wishes too early before I find the Aladdin's magic lamp.
 
