@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Three wishes with Aladdin's magic lamp
+tags: SoftwareTesting Testers Lean ContinuousImprovement ContinuouseLearning
 ---
 The story started after I've made my three wishes too early before I find the Aladdin's magic lamp.
 
