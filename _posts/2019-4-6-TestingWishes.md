@@ -12,7 +12,7 @@ My three wishes into the future from 2019:
 3. No more divide within testing (automated vs manual; technical vs non-technical). *it's bad!*
 *I heard from @maaretp the future is already arrived but just need to be evenly distributed - yay!.*
 
-<!-- #How I come with these wishes# -->
+
 I've been asking myself **"What's the future look like for me as a tester?""** since I started in testing. Each time, I thought I had the answer and I was determined that's my future look like as a tester. As you probably guessed by now, it changes every time. So here I am trying to figure out in 2019 again. Well, I've made my three wishes for now.
 
 What will be your three wishes in your Testing future? Share it around and see what we could bring for our own future in testing.
@@ -50,6 +50,7 @@ I was learning a lot, seriously a lot. I learned to how to write test plan and e
 I started to reach out to local communities and external testers. Then, I found the local #WeTest meetups and conference (now the *Ministry of Testing Wellington*). It was an eye opening for me after I attended **#WeTestWeekendWorkshop2014**. I heard context-driven testing for the first time, introduced to visual modelling and specification by examples, more importantly I was happy again because I found the community and interesting new ways of thinking and practicing testing. I've been a keen follower of the #WeTest community since then and still am with the new age of *MoT Wellington*.
 
 Close to the end of my toddler testing years, I learned there's more exciting things in Testing world out in the wild. I was eager to learn more from wider testing communities. I wish I know and learn more about performance, security testing, automation, and testing in agile.
+
 
 ------------
 
