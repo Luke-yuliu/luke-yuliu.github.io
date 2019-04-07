@@ -74,4 +74,5 @@ Again, I was blessed because I was able to practicing a lot of what I've learned
 
 Here I'm today in the middle of my little kid testing years, I made my three wishes for my future testing journey.
 
+
 *I'd like to thank you [Lisa Crispin](https://twitter.com/lisacrispin), [Michael Bolton](https://twitter.com/michaelbolton) and others who encouraged me to share my story with this blogpost. Thank you!*
