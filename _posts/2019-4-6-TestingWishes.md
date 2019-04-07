@@ -9,7 +9,7 @@ My three wishes into the future from 2019:
 2. No more useless, meaningless and wasteful testing artefacts and documentations. ***it's a waste.***
 3. No more divide within testing (automated vs manual; technical vs non-technical). ***it's bad!***
 
-*I heard from @maaretp the future is already arrived but just need to be evenly distributed - yay!.*
+*I heard from [@maaretp](https://twitter.com/maaretp) the future is already arrived but just need to be evenly distributed - yay!*
 
 
 I've been asking myself **"What's the future look like for me as a tester?** since I started in testing. Each time, I thought I had the answer and I was determined that's my future look like as a tester. As you probably guessed by now, it changes every time. So here I am trying to figure out in 2019 again. Well, I've made my three wishes for now.
@@ -72,4 +72,4 @@ As I grow up in this testing world, I started practicing what I've learned in my
 Again, I was blessed because I was able to practicing a lot of what I've learned while continuous practicing new learnings. I was learned more about performance testing from my failures, and automation implementations via TestComplete for a map driven application and Pytest for REST and SOAP APIs. The dream had just become bigger after CTO approved a proposal of six months CI/CD Pipeline journey prepared by me and another Senior Test Engineer. Containers, Dockers, DataFactory, Jenkins, InfrastructureAsCode, Git, github, DevOps etc. I'm learning a lot as I go. Just then, I joined a new team working on some cool projects. Near the end of the first quarter of 2019, I was asking myself the question again. This time, I tried to reach out to leaders and awesome fellow testers via twitter. I was hoping to get some ideas from them as how they see testing is going and which direction testing should be heading towards by naming [three changes](https://twitter.com/yuliu_luke/status/1111141806597521408?s=20).
 
 
-Here I'm today in the middle of my little kid testing years, I made my three wishes in the future of my testing journey.
+Here I'm today in the middle of my little kid testing years, I made my three wishes for my future testing journey.
