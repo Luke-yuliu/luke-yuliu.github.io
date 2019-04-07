@@ -23,7 +23,9 @@ My three wishes come out as how I travelled and where I've been in my unique Tes
 With further ado, the story begins ..
 
 ------------
+
 *Infant testing years*
+
 ------------
 
 As far as I can remember, testing probably in my genes from a really young age. I was the one asking "why? what if? how so?" a lot in an education system where teachers are the source of truth and knowledge. The one should not be questioned when they told you something is true. Well, at least it was my experience when I grow up. Luckily, it is changing nowadays. Anyway, what is this to do with testing? I love exploring and experimenting things when I don't get answers with my "why? what if? how so?". I find it works well with my testing so far, these questions keep me focusing on important bit while assessing other possible outcomes compares to the expected ones. Others may argue these are required for any roles. Yes, agree but more important to a tester in my view.
@@ -36,7 +38,9 @@ I was fully motivated to write even more great test cases which lots people told
 
 
 ------------
+
 *Toddler testing years*
+
 ------------
 
 Eventually, I became the first internal testers in the organisation. Yeah!!! (That's how I felt at the time.) I started to dream big since I'm an independent toddler now (well, that's what I thought). I worked with a newly appointed manager, she was so experienced because she was asking for the 'right' things. She asked detailed test cases, so anyone come from the street can follow and find bugs. She asked for IEEE829 test plans, so testing in the organisation looks more 'professional'. She also asked for IEEE829 Test Exit Report, so she can sign it off to give go-ahead signal of the releases. In addition, I can be more 'accountable' by signing my name on it as well. I once felt grateful of these opportunities, as it seems it's the sensible path way to move into a Test Manager role.
@@ -48,7 +52,9 @@ I started to reach out to local communities and external testers. Then, I found 
 Close to the end of my toddler testing years, I learned there's more exciting things in Testing world out in the wild. I was eager to learn more from wider testing communities. I wish I know and learn more about performance, security testing, automation, and testing in agile.
 
 ------------
+
 *Little kid testing years*
+
 ------------
 
 As I grow up in this testing world, I started practicing what I've learned in my earlier age. I throw out of the step by step test cases when started with a new team in an exciting new start-up company. I didn't even mention the test plan and test exit report documentations. I was lucky enough to meet the like-minded people about lean approach. The general manager of development and product owner are amazing, everyone in the team is focusing on the real value than formality and format. Everything we do, we produce needs to have a purpose, include meetings. It was just amazing experience working in a such fun culture and environment, where everyone is open to new ideas, value focused. Testing become more fun for me, because I don't need to produce or follow something just for the sake of standard but no real value.
