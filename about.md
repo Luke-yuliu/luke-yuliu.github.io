@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you! - better quality software solutions via lean approach. full stack testers. agile, devops. love to learn and share
+Deliver better quality software solutions via lean approach, continuous improvement, and continuous learning. Inspired to be a full stack tester.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Keen learner loves to learn and share.
 
 ### Contact me
 

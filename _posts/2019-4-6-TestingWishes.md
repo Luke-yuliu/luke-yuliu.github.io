@@ -5,20 +5,20 @@ title: Three wishes with Aladdin's magic lamp
 The story started after I've made my three wishes too early before I find the Aladdin's magic lamp.
 
 My three wishes into the future from 2019:
-1. Testers facilitate, coach, influence others for better quality, incorporate quality mindset into every corner of SDLC. *it's the thinking that matters!*
-2. No more useless, meaningless and wasteful testing artefacts and documentations. *it's a waste.*
-3. No more divide within testing (automated vs manual; technical vs non-technical). *it's bad!*
+1. Testers facilitate, coach, influence others for better quality, incorporate quality mindset into every corner of SDLC. ***it's the thinking that matters!***
+2. No more useless, meaningless and wasteful testing artefacts and documentations. ***it's a waste.***
+3. No more divide within testing (automated vs manual; technical vs non-technical). ***it's bad!***
 *I heard from @maaretp the future is already arrived but just need to be evenly distributed - yay!.*
 
 
-I've been asking myself **"What's the future look like for me as a tester?""** since I started in testing. Each time, I thought I had the answer and I was determined that's my future look like as a tester. As you probably guessed by now, it changes every time. So here I am trying to figure out in 2019 again. Well, I've made my three wishes for now.
+I've been asking myself **"What's the future look like for me as a tester?** since I started in testing. Each time, I thought I had the answer and I was determined that's my future look like as a tester. As you probably guessed by now, it changes every time. So here I am trying to figure out in 2019 again. Well, I've made my three wishes for now.
 
 What will be your three wishes in your Testing future? Share it around and see what we could bring for our own future in testing.
 
 My three wishes come out as how I travelled and where I've been in my unique Testing journey. It may not be relevant to others but it is a true story. I do hope this helps new starters to avoid some pains I had to go through in my very early ages of testing journey. I definitely hope this will get more testing practitioners to think about if 'we' as a community needs to make some changes, be it evolution or revolution for a better future in Testing for all of us.
 
 
-With further ado, the story begins ..
+With further ado, the story begins:
 
 ------------
 
@@ -45,7 +45,7 @@ Eventually, I became the first internal testers in the organisation. Yeah!!! (Th
 
 I was learning a lot, seriously a lot. I learned to how to write test plan and exit report within a hour for the bi-monthly releases, so I can go back to do more testing with the time saved (being naughty, probably should spend more hours to make it look amazing. yeah? nah.). I was wrong about the time saving, because I was end up with multiple meetings booked to go through the layout, format, colouring, grammar, Horizontal bar or vertical bar chart, pie chart, font, font size etc. everything else will improve my English reporting writing skills than the content of these Testing artefacts. While I appreciated the personal English tutoring but I felt a little disappointed. I started asking myself, is this what I was thinking the fun of testing? No, sure not.
 
-I started to reach out to local communities and external testers. Then, I found the local #WeTest meetups and conference (now the *Ministry of Testing Wellington*). It was an eye opening for me after I attended **#WeTestWeekendWorkshop2014**. I heard context-driven testing for the first time, introduced to visual modelling and specification by examples, more importantly I was happy again because I found the community and interesting new ways of thinking and practicing testing. I've been a keen follower of the #WeTest community since then and still am with the new age of *MoT Wellington*.
+I started to reach out to local communities and external testers. Then, I found the local #WeTest meetups and conference (now the *Ministry of Testing Wellington*). It was an eye opening for me after I attended **#WeTestWeekendWorkshop2014**. I heard context-driven testing for the first time, introduced to visual modelling and specification by examples, more importantly I was happy again because I found the community and interesting new ways of thinking and practicing testing. I've been a keen follower of the #WeTest community since then and still am with the new age of [**MoT Wellington**](https://www.meetup.com/Ministry-of-Testing-Wellington/).
 
 Close to the end of my toddler testing years, I learned there's more exciting things in Testing world out in the wild. I was eager to learn more from wider testing communities. I wish I know and learn more about performance, security testing, automation, and testing in agile.
 
