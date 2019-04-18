@@ -12,7 +12,7 @@ My three wishes into the future from 2019:
 2. No more useless, meaningless and wasteful testing artefacts and documentations. ***it's a waste.***
 3. No more divide within testing (automated vs manual; technical vs non-technical). ***it's bad!***
 
-*I heard from [@maaretp](https://twitter.com/maaretp) the future is already arrived but just need to be evenly distributed - yay!*
+*I heard from [Maaret Pyhäjärvi](https://twitter.com/maaretp) the future is already arrived but just need to be evenly distributed - yay!*
 
 
 I've been asking myself **What's the future look like for me as a tester?** since I started in testing. Each time, I thought I had the answer and I was determined that's my future look like as a tester. As you probably guessed by now, it changes every time. So here I am trying to figure out in 2019 again. Well, I've made my three wishes for now.
