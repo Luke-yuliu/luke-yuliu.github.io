@@ -75,7 +75,9 @@ As I grow up in this testing world, I started practicing what I've learned in my
 Again, I was blessed because I was able to practice a lot of what I've learned while continuous practicing new learnings. I learned more about performance testing from my failures, and automation implementations via TestComplete for a map driven application and Pytest for REST and SOAP APIs. The dream had just become bigger after the proposal of six months CI/CD Pipeline journey is approved. Containers, Dockers, DataFactory, Jenkins, InfrastructureAsCode, Git, Github, DevOps etc. I'm learning a lot as I go. Just then, I joined a new team working on some cool projects. Near the end of the first quarter of 2019, I was asking myself the question again. This time, I tried to reach out to leaders and awesome fellow testers via twitter. I was hoping to get some ideas from them as how they see testing is going and which direction testing should be heading towards by naming [three changes](https://twitter.com/yuliu_luke/status/1111141806597521408?s=20).
 
 
-Here I'm today in the middle of my little kid testing years, I made my three wishes for my future testing journey. What's yours?
+Here I'm today in the middle of my little kid testing years, I made my three wishes for my future testing journey. 
+
+What's yours?
 
 
 *I'd like to thank you [Lisa Crispin](https://twitter.com/lisacrispin), [Michael Bolton](https://twitter.com/michaelbolton) and others who encouraged me to share my story with this blogpost. Thank you!*
