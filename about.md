@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Deliver better quality software solutions via lean approach, continuous improvement, and continuous learning. Inspired to be a full stack tester.
+Inspired to be a black belt as a #Kungfu Tester. #KungfuTesting
+
+
+
 
 ### More Information
 
-Keen learner loves to learn and share.
+Deliver better quality solutions via a lean approach, continuous improvement, continuous learning and powered by my tester mindset. 
 
 ### Contact me
 
