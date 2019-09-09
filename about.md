@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Inspired to be a black belt as a #Kungfu Tester. #KungfuTesting
+Inspired to be a black belt Kung Fu Tester. #KungfuTesting #功夫
 
 
 
