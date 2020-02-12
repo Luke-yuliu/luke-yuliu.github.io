@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Inspired to be a black belt Kung Fu Tester. #KungfuTesting #功夫
+Inspired to become a Kung Fu Master in testing, while having fun on my learning journey.
+
+Committed to delivering better quality solutions via a lean approach, continuous improvement, continuous learning.
 
 
 
 
-### More Information
+powered by #TesterMindset.
 
-Deliver better quality solutions via a lean approach, continuous improvement, continuous learning and powered by my tester mindset. 
 
 ### Contact me
 
