@@ -2,10 +2,6 @@
 layout: post
 title: Three wishes with Aladdin's magic lamp
 ---
-<!-- tags: SoftwareTesting Testers Lean ContinuousImprovement ContinuouseLearning -->
-<!-- http://longqian.me/2017/02/09/github-jekyll-tag/ is helpful site to continue to build tags, automatic creation of tag page-->
-
-
 My three wishes into the future from 2019:
 1. Testers facilitate, coach, influence others for better quality, incorporate quality mindset into every corner of SDLC. ***it's the thinking that matters!***
 2. No more useless, meaningless and wasteful testing artefacts and documentations. ***it's a waste.***
