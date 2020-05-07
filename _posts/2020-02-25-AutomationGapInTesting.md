@@ -1,6 +1,4 @@
 ---
-categories: 
-tags: Automation
 layout: post
 published: true
 title: Identify the Automation Gap in Testing
